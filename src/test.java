@@ -1,4 +1,5 @@
 
 public class test {
-	String string = "4645615651";
+	String str = "4645615651";
+	String string1 = "46451";
 }
